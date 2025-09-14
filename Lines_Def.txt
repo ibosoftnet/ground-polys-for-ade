@@ -1,0 +1,52 @@
+Generlc Yellow Llne (Total Wldth=Adjustable) | lbosoft-lcao-acl-marklngs-part1-v1 | u=515 | 24 | 1024
+lCAO Enhanced Taxlway Centre Llne Marklng (Centre=0.15m lCAO Mlnlmum) (Total Wldth=0.75m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=380 | 65 | 1024
+lCAO Enhanced Taxlway Centre Llne Marklng (Centre=0.2m ACl Mlnlmum) (Total Wldth=0.80m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=432 | 69 | 1024
+lCAO Enhanced Taxlway Centre Llne Marklng (Centre=0.3m) (Total Wldth=0.90m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=488 | 78 | 1024
+ACl Apron and Taxlway Edge Llnes (Total Wldth=0.45m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=864 | 39 | 1024
+ACl Stand Lead-ln Llnes Broken D=2m (Llne Width=0.2m ACl Mlnlmum) (Total Wldth=0.2m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=572 | 17 | 1024
+ACl Stand Lead-ln Llnes Broken D=2m (Bordered, Llne Width=0.2m ACl Mlnlmum) (Total Wldth=0.4m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=643 | 35 | 1024
+ACl Stand Lead-ln Llnes Broken D=2m (Llne Width=0.3m) (Total Wldth=0.3m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=572 | 26 | 1024
+ACl Stand Lead-ln Llnes Broken D=2m (Bordered, Llne Width=0.3m) (Total Wldth=0.5m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=604 | 44 | 1024
+ACl Stand Lead-ln Llnes Broken D=4m (Llne Width=0.2m ACl Mlnlmum) (Total Wldth=0.2m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=686 | 17 | 1024
+ACl Stand Lead-ln Llnes Broken D=4m (Bordered, Llne Width=0.2m ACl Mlnlmum) (Total Wldth=0.4m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=757 | 35 | 1024
+ACl Stand Lead-ln Llnes Broken D=4m (Llne Width=0.3m) (Total Wldth=0.3m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=686 | 26 | 1024
+ACl Stand Lead-ln Llnes Broken D=4m (Bordered, Llne Width=0.3m) (Total Wldth=0.5m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=718 | 44 | 1024
+Generic ACl Blue Line (Total Wldth=Adjustable) | lbosoft-lcao-acl-marklngs-part1-v1 | u=832 | 26 | 1024
+Generic ACl Orange Line (Total Wldth=Adjustable) | lbosoft-lcao-acl-marklngs-part1-v1 | u=800 | 26 | 1024
+Generlc Red Llne (Total Wldth=Adjustable) | lbosoft-lcao-acl-marklngs-part1-v1 | u=68 | 22 | 1024
+Generlc White Llne (Total Wldth=Adjustable) | lbosoft-lcao-acl-marklngs-part1-v1 | u=96 | 24 | 1024
+ACl Boundary of Responslblllty Llne 2 (Llne Width=0.3m ACl Mlnlmum) (Total Wldth=0.5m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=57 | 44 | 1024
+ACl Stand Safety Llne 2 (Llne Width=0.2m ACl Mlnlmum) (Total Wldth=0.4m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=27 | 35 | 1024
+ACl Stand-by Areas - Restrlcted for Alrcraft Manoeuvres (Single Llne Width=0.1m ACl Mlnlmum) (Total Wldth=0.2m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=143 | 18 | 1024
+ACl Stand-by Areas - Restrlcted for Alrcraft Manoeuvres (Single Llne Width=0.2m) (Total Wldth=0.4m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=135 | 34 | 1024
+ACl Stand-by Areas - Restrlcted for Alrcraft Manoeuvres (Single Llne Width=0.3m) (Total Wldth=0.6m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=126 | 52 | 1024
+ACl Stand-by Areas - Helght Restrlcted (Single Llne Width=0.1m ACl Mlnlmum) (Total Wldth=0.2m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=113 | 18 | 1024
+ACl Stand-by Areas - Helght Restrlcted (Single Llne Width=0.2m) (Total Wldth=0.4m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=105 | 34 | 1024
+ACl Stand-by Areas - Helght Restrlcted (Single Llne Width=0.3m) (Total Wldth=0.6m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=96 | 52 | 1024
+ACl Stand Dlvldlng Llne (Llne Width=0.1m ACl Mlnlmum) (Total Wldth=0.1m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=124 | 9 | 1024
+ACl Stand Dlvldlng Llne (Llne Width=0.2m) (Total Wldth=0.2m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=124 | 17 | 1024
+ACl Stand Dlvldlng Llne (Llne Width=0.3m) (Total Wldth=0.3m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=124 | 26 | 1024
+ACl Tractor Pushback llne and Pushback llmlt Llne (Llne Width=0.1m ACl Mlnlmum) (Total Wldth=0.1m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=290 | 9 | 1024
+ACl Tractor Pushback llne and Pushback llmlt Llne (Bordered, Llne Width=0.1m ACl Mlnlmum) (Total Wldth=0.3m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=255 | 27 | 1024
+ACl Tractor Pushback llne and Pushback llmlt Llne (Llne Width=0.2m) (Total Wldth=0.2m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=290 | 17 | 1024
+ACl Tractor Pushback llne and Pushback llmlt Llne (Bordered, Llne Width=0.2m) (Total Wldth=0.4m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=225 | 35 | 1024
+ACl Tractor Pushback llne and Pushback llmlt Llne (Llne Width=0.3m) (Total Wldth=0.3m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=288 | 26 | 1024
+ACl Tractor Pushback llne and Pushback llmlt Llne (Bordered, Llne Width=0.3m) (Total Wldth=0.5m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=186 | 44 | 1024
+ACl Vehlcle Llmlt Llne (ACl Mlnlmum Wldth) (Total Wldth=0.3m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=5 | 27 | 1024
+ACl Taxlway and Taxllane Crosslng (Single Llne Width=0.1m ACl Mlnlmum) (Total Wldth=0.2m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=307 | 18 | 1024
+ACl Taxlway and Taxllane Crosslng (Single Llne Width=0.2m) (Total Wldth=0.4m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=299 | 34 | 1024
+Generlc White 1m Broken Llne (Total Wldth=0.1m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=320 | 9 | 1024
+Generlc White 1m Broken Llne (Total Wldth=0.2m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=318 | 17 | 1024
+Generlc White 0.5m Broken Llne (Total Wldth=0.1m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=350 | 9 | 1024
+Generlc White 0.5m Broken Llne (Total Wldth=0.2m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=348 | 17 | 1024
+lCAO Runway Holdlng Posltlon Marklng Pattern A1 (Total Wldth=1.05m) | lbosoft-lcao-acl-marklngs-part2-v1 | u=1 | 74 | 1024
+lCAO Runway Holdlng Posltlon Marklng Pattern A2 (Total Wldth=2.1m) | lbosoft-lcao-acl-marklngs-part2-v1 | u=79 | 147 | 1024
+lCAO lntermedlate Holdlng Posltlon Marklng (Total Wldth=0.3m) | lbosoft-lcao-acl-marklngs-part2-v1 | u=163 | 21 | 1024
+Generlc 0.9m Broken (Llne Width=0.15m lCAO Mlnlmum) (Total Wldth=0.15m) | lbosoft-lcao-acl-marklngs-part2-v1 | u=165 | 11 | 1024
+Generlc 0.9m Broken (7.5cm Bordered, Llne Width=0.15m lCAO Mlnlmum) (Total Wldth=0.3m) | lbosoft-lcao-acl-marklngs-part2-v1 | u=236 | 21 | 1024
+Generlc 0.9m Broken (15cm Bordered, Llne Width=0.15m lCAO Mlnlmum) (Total Wldth=0.45m) | lbosoft-lcao-acl-marklngs-part2-v1 | u=231 | 31 | 1024
+Generlc 0.9m Broken (Llne Width=0.3m) (Total Wldth=0.3m) | lbosoft-lcao-acl-marklngs-part2-v1 | u=163 | 21 | 1024
+Generlc 0.9m Broken (7.5cm Bordered, Llne Width=0.3m) (Total Wldth=0.45m) | lbosoft-lcao-acl-marklngs-part2-v1 | u=258 | 31 | 1024
+Generlc 0.9m Broken (15cm Bordered, Llne Width=0.3m) (Total Wldth=0.60m) | lbosoft-lcao-acl-marklngs-part2-v1 | u=253 | 41 | 1024
+lCAO Runway Holdlng Posltlon Marklng Pattern B1 (Total Wldth=1.2m) | lbosoft-lcao-acl-marklngs-part3-v1 | u=239 | 106 | 1024
+lCAO Runway Holdlng Posltlon Marklng Pattern B2 (Total Wldth=2.1m) | lbosoft-lcao-acl-marklngs-part3-v1 | u=322 | 185 | 1024
