@@ -20,3 +20,8 @@ READ ME WILL BU UPDATED SOON.
 
 ## Other
 
+### Reference Specifications:
+* ICAO Annex 14, Aerodromes, Volume I - Aerodrome Design and Operations - 19th Ed., Amend. 17, July 2022
+* ICAO Doc 9157, Aerodrome Design Manual, Part 4 - Visual Aids - 5th Ed., Amend. 1, Corr. 1, 2021
+* ACI Apron Markings and Signs Handbook - 3rd Ed., 2017
+
