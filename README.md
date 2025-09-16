@@ -11,7 +11,7 @@ For installation and usage, please refer to wiki.
 
 ## Main Sources:
 ### Fonts:
-Fontlar için diğer repositorymizden yararlanılmıştır. [github.com/ibosoftnet/ICAO-Annex-14-Fonts](https://github.com/ibosoftnet/ICAO-Annex-14-Fonts)
+For raw font files, please refer to this repository: [github.com/ibosoftnet/ICAO-Annex-14-Fonts](https://github.com/ibosoftnet/ICAO-Annex-14-Fonts)
 
 ### Reference Specifications:
 * ICAO Annex 14, Aerodromes, Volume I - Aerodrome Design and Operations - 19th Ed., Amend. 17, July 2022
