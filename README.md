@@ -1,7 +1,7 @@
 # ICAO Ground Poly Textures For Airport Design Editor (ADE)
 
 ## Preface:
-ICAO (International Civil Aviation Organization) and ACI (Airports Council International) compilant pre-defined aerodrome marking textures for Scruffyduck's Airport Design Editor (ADE) Ground Polygon (GP) editor. Also textures can be used for other texturing purposes as well.
+ICAO (International Civil Aviation Organization) and ACI (Airports Council International) compilant pre-defined aerodrome marking textures for Scruffyduck's Airport Design Editor (ADE) Ground Polygon (GP) editor, for Microsoft Flight Simulator X / Lockheed Martin Prepar3D. Also textures can be used for other texturing purposes as well.
 
 ## Installation and Usage:
 
@@ -11,7 +11,7 @@ For installation and usage, please refer to wiki.
 
 ## Main Sources:
 ### Fonts:
-Fontlar için diğer repositorymizden yararlanılmıştır. [github.com/ibosoftnet/ICAO-Annex-14-Markings](https://github.com/ibosoftnet/ICAO-Annex-14-Markings)
+Fontlar için diğer repositorymizden yararlanılmıştır. [github.com/ibosoftnet/ICAO-Annex-14-Fonts](https://github.com/ibosoftnet/ICAO-Annex-14-Fonts)
 
 ### Reference Specifications:
 * ICAO Annex 14, Aerodromes, Volume I - Aerodrome Design and Operations - 19th Ed., Amend. 17, July 2022
