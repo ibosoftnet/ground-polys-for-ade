@@ -8,7 +8,7 @@ ICAO (International Civil Aviation Organization) and ACI (Airports Council Inter
 For installation and usage, please refer to wiki.
 Wiki will be ready soon.
 
-* Want to learn more about aerodrome ground markings? For articles and documentation, visit [Ibosoft Eğitim](https://egitim.ibosoft.net.tr/)
+* Want to learn more about aerodrome ground markings? For articles and documentations, visit [Ibosoft Eğitim](https://egitim.ibosoft.net.tr/)
 
 ## Main Sources:
 ### Fonts:
