@@ -6,6 +6,7 @@ ICAO (International Civil Aviation Organization) and ACI (Airports Council Inter
 ## Installation and Usage:
 
 For installation and usage, please refer to wiki.
+Wiki will be ready soon.
 
 * Want to learn more about aerodrome ground markings? For articles and documentation, visit [Ibosoft Eğitim](https://egitim.ibosoft.net.tr/)
 
