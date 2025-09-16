@@ -39,7 +39,7 @@ For details, please refer to wiki.
 
 <img src="Textures/24 bit Bitmap/lbosoft-lcao-acl-marklngs-part4-v1.bmp" style="width:50%;">
 
-* **Part 5/6/7/8 - ICAO Annex 14 _Runway Designation Markings_ in various colours:**
+* **Part 5/6/7/8 - ICAO Annex 14 _Mandatory Instruction Markings and Information Markings_ in various colours:**
 
 <table style="width:50%;">
   <tr>
