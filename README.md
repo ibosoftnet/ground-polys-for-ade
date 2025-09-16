@@ -55,11 +55,11 @@ For details, please refer to wiki.
 
 * **Part 9 - Some pre-ready ACI texts:**
 
-<img src="Textures/24 bit Bitmap/lbosoft-lcao-acl-marklngs-part9-v1.bmp" style="width:25%;">
+<img src="Textures/24 bit Bitmap/lbosoft-lcao-acl-marklngs-part9-v1.bmp" style="width:33%;">
 
 * **Part 10 - Some ACI _Apron Signs_:**
 
-<img src="Textures/24 bit Bitmap/lbosoft-lcao-acl-marklngs-part10-v1.bmp" style="width:25%;">
+<img src="Textures/24 bit Bitmap/lbosoft-lcao-acl-marklngs-part10-v1.bmp" style="width:33%;">
 
 ---
 
