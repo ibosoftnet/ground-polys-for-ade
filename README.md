@@ -6,12 +6,13 @@ ICAO (International Civil Aviation Organization) and ACI (Airports Council Inter
 ## Installation and Usage:
 
 For installation and usage, please refer to wiki.
+Wiki will be ready soon.
 
-* Want to learn more about aerodrome ground markings? For articles and documentation, visit [Ibosoft Eğitim](https://egitim.ibosoft.net.tr/)
+* Want to learn more about aerodrome ground markings? For articles and documentations, visit [Ibosoft Eğitim](https://egitim.ibosoft.net.tr/)
 
 ## Main Sources:
 ### Fonts:
-Fontlar için diğer repositorymizden yararlanılmıştır. [github.com/ibosoftnet/ICAO-Annex-14-Fonts](https://github.com/ibosoftnet/ICAO-Annex-14-Fonts)
+For raw font files, please refer to this repository: [github.com/ibosoftnet/ICAO-Annex-14-Fonts](https://github.com/ibosoftnet/ICAO-Annex-14-Fonts)
 
 ### Reference Specifications:
 * ICAO Annex 14, Aerodromes, Volume I - Aerodrome Design and Operations - 19th Ed., Amend. 17, July 2022
@@ -39,7 +40,7 @@ For details, please refer to wiki.
 
 <img src="Textures/24 bit Bitmap/lbosoft-lcao-acl-marklngs-part4-v1.bmp" style="width:50%;">
 
-* **Part 5/6/7/8 - ICAO Annex 14 _Runway Designation Markings_ in various colours:**
+* **Part 5/6/7/8 - ICAO Annex 14 _Mandatory Instruction Markings and Information Markings_ in various colours:**
 
 <table style="width:50%;">
   <tr>
@@ -55,11 +56,11 @@ For details, please refer to wiki.
 
 * **Part 9 - Some pre-ready ACI texts:**
 
-<img src="Textures/24 bit Bitmap/lbosoft-lcao-acl-marklngs-part9-v1.bmp" style="width:25%;">
+<img src="Textures/24 bit Bitmap/lbosoft-lcao-acl-marklngs-part9-v1.bmp" style="width:33%;">
 
 * **Part 10 - Some ACI _Apron Signs_:**
 
-<img src="Textures/24 bit Bitmap/lbosoft-lcao-acl-marklngs-part10-v1.bmp" style="width:25%;">
+<img src="Textures/24 bit Bitmap/lbosoft-lcao-acl-marklngs-part10-v1.bmp" style="width:33%;">
 
 ---
 
