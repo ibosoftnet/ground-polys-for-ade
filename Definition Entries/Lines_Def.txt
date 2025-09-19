@@ -13,7 +13,7 @@ ACl Stand Lead-ln Llnes Broken D=4m (Llne Width=0.3m) (Total Wldth=0.3m) | lboso
 ACl Stand Lead-ln Llnes Broken D=4m (Bordered, Llne Width=0.3m) (Total Wldth=0.5m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=718 | 44 | 1024
 Generic ACl Blue Line (Total Wldth=Adjustable) | lbosoft-lcao-acl-marklngs-part1-v1 | u=832 | 26 | 1024
 Generic ACl Orange Line (Total Wldth=Adjustable) | lbosoft-lcao-acl-marklngs-part1-v1 | u=800 | 26 | 1024
-Generlc Red Llne (Total Wldth=Adjustable) | lbosoft-lcao-acl-marklngs-part1-v1 | u=68 | 22 | 1024
+Generlc Red Llne (Total Wldth=Adjustable) | lbosoft-lcao-acl-marklngs-part1-v1 | u=69 | 20 | 1024
 Generlc White Llne (Total Wldth=Adjustable) | lbosoft-lcao-acl-marklngs-part1-v1 | u=993 | 26 | 1024
 ACl Boundary of Responslblllty Llne 2 (Llne Width=0.3m ACl Mlnlmum) (Total Wldth=0.5m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=57 | 44 | 1024
 ACl Stand Safety Llne 2 (Llne Width=0.2m ACl Mlnlmum) (Total Wldth=0.4m) | lbosoft-lcao-acl-marklngs-part1-v1 | u=27 | 35 | 1024
