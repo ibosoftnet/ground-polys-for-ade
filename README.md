@@ -14,9 +14,8 @@ ICAO (International Civil Aviation Organization) and ACI (Airports Council Inter
 
 ### Usage:
 
-
 > **IMPORTANT**  
-> In the **ADE GP Editor**, if the name of a line texture includes a **Total Width** value specified in **centimeters**, you must set the width of the line you use to that value.  
+> In the **ADE GP Editor**, if the name of a line texture includes a **Total Width** value specified in **centimetres**, you must set the width of the line you use to that value.  
 > This is because the pattern and spacing ratios of these lines are adjusted according to their total width.  
 >
 > If **Total Width = Adjustable**, the line does not contain a repeating pattern, so the aspect ratio does not matter, and you can use any width you prefer.
@@ -32,6 +31,8 @@ For raw font files, please refer to this repository: [github.com/ibosoftnet/ICAO
 * ICAO Annex 14, Aerodromes, Volume I - Aerodrome Design and Operations - 19th Ed., Amend. 17, July 2022
 * ICAO Doc 9157, Aerodrome Design Manual, Part 4 - Visual Aids - 5th Ed., Amend. 1, Corr. 1, 2021
 * ACI Apron Markings and Signs Handbook - 3rd Ed., 2017
+
+---
 
 ## Available Textures:
 For details, please refer to wiki.
