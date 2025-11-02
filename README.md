@@ -5,8 +5,22 @@ ICAO (International Civil Aviation Organization) and ACI (Airports Council Inter
 
 ## Installation and Usage:
 
-For installation and usage, please refer to wiki.
-Wiki will be ready soon.
+### Installation:
+* Copy textures located at ```/Textures/24 Bit Mipmap``` to ```[ADE Installation Folder]\Textures_Dpy\``` - Theese are for previewing in ADE GP editor.
+* Copy textures located at ```/Textures/DXT3 DDS``` to ```[ADE Installation Folder]\Textures\``` - Theese are for using in scenery. According to the ADE GP manual, these textures are added to the “Texture” folder located in the directory where you compiled the scenery. However, if ADE did not automatically include these textures, or if your Texture folder has a different name, you need to manually copy the textures into your scenery’s texture folder.
+* Add the entries from ```\Definition Entries\Lines_Def.txt``` to ```[ADE Installation Folder]\Lines_Def.txt```, either at the **beginning** or the **end** of the file.
+* Add the entries from ```\Definition Entries\Texture_Def.txt``` to ```[ADE Installation Folder]\Texture_Def.txt```, either at the **beginning** or the **end** of the file.
+
+
+### Usage:
+
+
+> **IMPORTANT**  
+> In the **ADE GP Editor**, if the name of a line texture includes a **Total Width** value specified in **centimeters**, you must set the width of the line you use to that value.  
+> This is because the pattern and spacing ratios of these lines are adjusted according to their total width.  
+>
+> If **Total Width = Adjustable**, the line does not contain a repeating pattern, so the aspect ratio does not matter, and you can use any width you prefer.
+
 
 * Want to learn more about aerodrome ground markings? For articles and documentations, visit [Ibosoft Eğitim](https://egitim.ibosoft.net.tr/)
 
@@ -64,3 +78,7 @@ For details, please refer to wiki.
 
 ---
 
+## Update Notes:
+* **02 November 2024** - The location of the ACI Blue Line has been changed because it caused blue reflections with nearby lines in the texture file. Please update Part 1 textures and ACI Blue Line definition entries.
+
+---
